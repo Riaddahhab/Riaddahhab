@@ -1,16 +1,32 @@
-## Hi there 👋
+<img src="banner.jpg" alt="bopzop: the trenches, together" width="100%" />
 
-<!--
-**Riaddahhab/Riaddahhab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm Adam
 
-Here are some ideas to get you started:
+I'm the founder of **[bopzop](https://bopzop.trade)**, the social memecoin trading terminal.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+On bopzop, every trader's PnL and calls are tied to real on-chain trades. You follow people whose wins are real, not screenshots.
+
+I'm building it as a non-technical founder, with a team of AI coding agents shipping in parallel.
+
+#### What bopzop does
+
+- **Verified PnL.** Profiles, leaderboards and calls backed by on-chain trades.
+- **The trenches, together.** New launches, with your friends' buys on every token.
+- **Faces on the chart.** See where friends, KOLs and snipers bought or sold.
+- **Copy trading with limits.** Follow the traders who actually win, inside the limits you set.
+- **Embedded wallets.** Sign in with Google, X, email, a wallet or a passkey.
+
+**Status:** private beta October 15, 2026 · public launch October 22, 2026 · Solana first.
+
+**Built with:** Solana · Privy · Jupiter · QuickNode · Cloudflare
+
+<img src="screen-chart.jpg" alt="bopzop token page: faces on the chart" width="100%" />
+<img src="screen-leaderboard.jpg" alt="bopzop leaderboard: verified on-chain PnL" width="100%" />
+
+<sub>UI preview · sample data. The bopzop codebase is private for now.</sub>
+
+#### Find me
+
+- Waitlist: [bopzop.trade](https://bopzop.trade)
+- X: [@TraderDahhan](https://x.com/TraderDahhan) · [@bopzopapp](https://x.com/bopzopapp)
+- LinkedIn: [Adam Dahhan](https://www.linkedin.com/in/adam-dahhan-1b813a26b)
