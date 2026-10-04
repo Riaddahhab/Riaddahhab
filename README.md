@@ -25,6 +25,10 @@ I'm building it as a non-technical founder, with a team of AI coding agents ship
 
 <sub>UI preview · sample data. The bopzop codebase is private for now.</sub>
 
+#### Open source
+
+- [github.com/Riaddahhab/adam](https://github.com/Riaddahhab/adam) — **bopzop open source**: `pixel-traders` (the pixel people of bopzop, [live demo](https://riaddahhab.github.io/adam/)) and `solana-swap-pnl` (realized/unrealized PnL of a Solana wallet). The bopzop app itself is closed source.
+
 #### Find me
 
 - Waitlist: [bopzop.trade](https://bopzop.trade)
